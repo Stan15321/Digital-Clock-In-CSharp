@@ -1,7 +1,7 @@
 ﻿
 namespace DigitalClock
 {
-    partial class Form1
+    partial class DigitalClock
     {
         /// <summary>
         ///  Required designer variable.
@@ -91,7 +91,7 @@ namespace DigitalClock
             this.timer.Interval = 1000;
             this.timer.Tick += new System.EventHandler(this.timer_Tick);
             // 
-            // Form1
+            // DigitalClock
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -102,7 +102,7 @@ namespace DigitalClock
             this.Controls.Add(this.lblSecond);
             this.Controls.Add(this.lblTime);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Form1";
+            this.Name = "DigitalClock";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
