@@ -1,4 +1,4 @@
-## Digital-Clock-In-CSharp
+## Digital Clock With C#
 ## Simple Windows Forms Application, which shows: 
 ## Ready Project
 ## The Time, Seconds, The Day Of The Week, The Year And The Month.
