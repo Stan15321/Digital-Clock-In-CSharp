@@ -1,4 +1,5 @@
-## Digital Clock With C#, Simple Windows Forms Application, which shows: 
+## Digital Clock With C#
+## Simple Windows Forms Application, which shows: 
 
 
 - The Time.
